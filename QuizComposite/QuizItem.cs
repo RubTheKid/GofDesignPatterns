@@ -9,4 +9,12 @@ namespace QuizComposite;
 public abstract class QuizItem
 {
     protected string Description;
+
+
+    public QuizItem(string description)
+    {
+        Description = description;
+    }
+
+    public abstract void Display();
 }
