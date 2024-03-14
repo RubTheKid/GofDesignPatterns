@@ -37,9 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizComposite", "QuizCompos
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DecoratorPattern", "DecoratorPattern", "{C5A9325A-88F1-46A0-82FD-E82533F017B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorExample", "DecoratorExample\DecoratorExample.csproj", "{27687912-45A4-450D-A77F-8803B7A1B328}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoratorExample", "DecoratorExample\DecoratorExample.csproj", "{27687912-45A4-450D-A77F-8803B7A1B328}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeteriaDecorator", "CafeteriaDecorator\CafeteriaDecorator.csproj", "{CD0B38A8-ACB6-425C-AACE-4FEAADD3C05B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CafeteriaDecorator", "CafeteriaDecorator\CafeteriaDecorator.csproj", "{CD0B38A8-ACB6-425C-AACE-4FEAADD3C05B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FacadePattern", "FacadePattern", "{86157428-CAE3-464A-95BC-472C706729FA}"
 EndProject
